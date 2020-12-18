@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Reactwebsite/static/css/main.42a5f075.chunk.css",
-    "main.js": "/Reactwebsite/static/js/main.bd5c6de5.chunk.js",
-    "main.js.map": "/Reactwebsite/static/js/main.bd5c6de5.chunk.js.map",
+    "main.css": "/Reactwebsite/static/css/main.b226a578.chunk.css",
+    "main.js": "/Reactwebsite/static/js/main.5e7dc8ff.chunk.js",
+    "main.js.map": "/Reactwebsite/static/js/main.5e7dc8ff.chunk.js.map",
     "runtime-main.js": "/Reactwebsite/static/js/runtime-main.cb1addac.js",
     "runtime-main.js.map": "/Reactwebsite/static/js/runtime-main.cb1addac.js.map",
     "static/css/2.81057f45.chunk.css": "/Reactwebsite/static/css/2.81057f45.chunk.css",
-    "static/js/2.bc1a5a65.chunk.js": "/Reactwebsite/static/js/2.bc1a5a65.chunk.js",
-    "static/js/2.bc1a5a65.chunk.js.map": "/Reactwebsite/static/js/2.bc1a5a65.chunk.js.map",
+    "static/js/2.0ac0fa7f.chunk.js": "/Reactwebsite/static/js/2.0ac0fa7f.chunk.js",
+    "static/js/2.0ac0fa7f.chunk.js.map": "/Reactwebsite/static/js/2.0ac0fa7f.chunk.js.map",
     "index.html": "/Reactwebsite/index.html",
     "static/css/2.81057f45.chunk.css.map": "/Reactwebsite/static/css/2.81057f45.chunk.css.map",
-    "static/css/main.42a5f075.chunk.css.map": "/Reactwebsite/static/css/main.42a5f075.chunk.css.map",
-    "static/js/2.bc1a5a65.chunk.js.LICENSE.txt": "/Reactwebsite/static/js/2.bc1a5a65.chunk.js.LICENSE.txt",
+    "static/css/main.b226a578.chunk.css.map": "/Reactwebsite/static/css/main.b226a578.chunk.css.map",
+    "static/js/2.0ac0fa7f.chunk.js.LICENSE.txt": "/Reactwebsite/static/js/2.0ac0fa7f.chunk.js.LICENSE.txt",
     "static/media/App-dev.437ee507.png": "/Reactwebsite/static/media/App-dev.437ee507.png",
     "static/media/about.d0c9360d.svg": "/Reactwebsite/static/media/about.d0c9360d.svg",
     "static/media/android.bb9313b5.jpg": "/Reactwebsite/static/media/android.bb9313b5.jpg",
     "static/media/digiMaket.b8ff9844.jpg": "/Reactwebsite/static/media/digiMaket.b8ff9844.jpg",
+    "static/media/logo.da360598.png": "/Reactwebsite/static/media/logo.da360598.png",
     "static/media/man.6b06e2da.svg": "/Reactwebsite/static/media/man.6b06e2da.svg",
     "static/media/marketing.b71eadfd.jpg": "/Reactwebsite/static/media/marketing.b71eadfd.jpg",
     "static/media/softwaredevelopment.4036b728.png": "/Reactwebsite/static/media/softwaredevelopment.4036b728.png",
@@ -24,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.cb1addac.js",
     "static/css/2.81057f45.chunk.css",
-    "static/js/2.bc1a5a65.chunk.js",
-    "static/css/main.42a5f075.chunk.css",
-    "static/js/main.bd5c6de5.chunk.js"
+    "static/js/2.0ac0fa7f.chunk.js",
+    "static/css/main.b226a578.chunk.css",
+    "static/js/main.5e7dc8ff.chunk.js"
   ]
 }
