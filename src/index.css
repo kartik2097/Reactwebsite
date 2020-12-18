@@ -8,9 +8,12 @@
   color: #fff;
   background: #1B1B1B;
 }
-
+.logoimg{
+  width: 10%;
+ 
+}
 .navbar{
-  padding: 0px 10px;
+  padding: 0px 10px 0px 10px;
   background: #1B1B1B;
 }
 .navbar-brand{
@@ -18,11 +21,7 @@
   background: #1B1B1B;
 }
 
-.navbar a{
-  font-size: 1.1rem ;
-  text-transform: capitalize ;
-  background: #1B1B1B;
-}
+
 
 .navbar a:hover{
   color: #3498db !important;
@@ -46,7 +45,8 @@
   margin: 0 0 10px 0;
   font-size: 40px;
   font-weight: 700;
-  color: #fff
+  color: #fff;
+ 
 }
 
 #header .brand-name{
@@ -56,6 +56,7 @@
 #header h2{
   color: #484848;
   font-size: 24px;
+
 }
 #header .btn-get-started{
   font-weight: 500;
@@ -149,5 +150,8 @@ margin: 0;
   }
   #header .header-img img{
    width: 70%;
+  }
+  .logoimg{
+    width: 15%; 
   }
 }

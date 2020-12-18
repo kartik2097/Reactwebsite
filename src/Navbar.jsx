@@ -1,5 +1,6 @@
 import React from "react";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import logo from '../src/images/logo.png';
 import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
@@ -8,10 +9,10 @@ const Navbar = () => {
       <div className="container-fluid nav_bg">
         <div className="row">
           <div className="mx-auto">
+
             <nav className="navbar navbar-expand-lg navbar-dark">
-              <NavLink className="navbar-brand " to="/">
-                Kartik
-              </NavLink>
+            <div className="d-flex flex-nowrap w-100">
+            <NavLink to="/"><img src={logo} className="img-fluid logoimg" alt="logoimg"/></NavLink>
               <button
                 className="navbar-toggler"
                 type="button"
@@ -23,7 +24,7 @@ const Navbar = () => {
               >
                 <span className="navbar-toggler-icon"></span>
               </button>
-
+            </div>
               <div
                 className="collapse navbar-collapse"
                 id="navbarSupportedContent"
